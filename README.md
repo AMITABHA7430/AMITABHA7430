@@ -31,7 +31,7 @@ _Bachelor of Technology in Computer Science and Technology_
 
 - **[Weather Web App](https://amitabha7430.github.io/weather-report-web/)**  
   Live weather updates using OpenWeatherMap API ([Source Code](https://github.com/amitabha7430/weather-report-web))
-- **[Personal Portfolio](https://amitabha7430.github.io/my_personal_portfolio/)**
+- **[Personal Portfolio](https://amitabha7430.github.io/MYpersonalPortfolio/)**
 - **[GitHub Pages Projects](https://amitabha7430.github.io/)**
 
 ---
