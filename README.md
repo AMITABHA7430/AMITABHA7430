@@ -48,8 +48,9 @@ _Bachelor of Technology in Computer Science and Technology_
 ## 🗣️ Languages
 
 - English
-- Hindi
 - Bengali
+- Hindi
+
 
 ---
 
