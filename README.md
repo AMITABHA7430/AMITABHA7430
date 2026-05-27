@@ -23,7 +23,8 @@ B.Tech student learning Java Backend Development and Spring Boot.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMITABHA7430&show_icons=true&theme=tokyonight)
+![GitHub Stats](<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMITABHA7430&show_icons=true&theme=tokyonight" />
+)
 
 ---
 
